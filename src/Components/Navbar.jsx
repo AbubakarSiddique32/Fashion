@@ -7,7 +7,7 @@ const navLinks = ["Home", "Shop", "Women", "Men", "Sale"];
 
 const Navbar = () => {
   return (
-    <div className=" py-5 px-10">
+    <div className=" py-5 px-10  ">
       <nav className=" flex items-center ">
         <div className="left w-[20%] flex items-center gap-2">
           <div className="logo w-[15%]">
