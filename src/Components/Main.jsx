@@ -16,6 +16,12 @@ const Main = () => {
               StrideX Shoes Blend Cuting- Edge Design WIth Superior Comfort.
               Ensuring You Stay Ahead in Every Step.
             </p>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem,
+              repellat vel aliquid sit a enim velit pariatur quae dolorum, dicta
+              aspernatur accusantium. Accusamus asperiores aliquid placeat
+              laborum minus enim possimus.
+            </p>
             <div className="main-button">
               <button className=" flex items-center gap-3 mt-10 outline-none">
                 <span className=" px-[20px] py-[5px] border rounded-full text-[#000000] text-[20px] font-[700] border-black">
