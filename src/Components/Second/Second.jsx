@@ -11,6 +11,12 @@ const Second = () => {
         corrupti molestiae sunt. Assumenda harum dicta quaerat dolorum rem?
       </p>
       <p>Github</p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus
+        cumque voluptate architecto veritatis vero assumenda illum quidem
+        quibusdam, facilis cupiditate hic eligendi ducimus at tempora maxime
+        sunt facere expedita temporibus?
+      </p>
     </div>
   );
 };
