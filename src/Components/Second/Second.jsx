@@ -10,6 +10,7 @@ const Second = () => {
         nisi atque veniam magnam, officiis esse omnis non quo natus adipisci
         corrupti molestiae sunt. Assumenda harum dicta quaerat dolorum rem?
       </p>
+      <p>Github</p>
     </div>
   );
 };
