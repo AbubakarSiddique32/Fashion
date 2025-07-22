@@ -10,6 +10,7 @@ const Second = () => {
         nisi atque veniam magnam, officiis esse omnis non quo natus adipisci
         corrupti molestiae sunt. Assumenda harum dicta quaerat dolorum rem?
       </p>
+      <h1>Heloo World</h1>
     </div>
   );
 };
