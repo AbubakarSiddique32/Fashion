@@ -1,6 +1,7 @@
 import React from "react";
 import main from "../Images/Shoes.png";
 import { GoArrowUpRight } from "react-icons/go";
+import footer from "../Images/Footer.png";
 
 const Main = () => {
   return (
@@ -31,6 +32,11 @@ const Main = () => {
           <div className="main-image w-full">
             <img src={main} alt="" className=" w-full" />
           </div>
+        </div>
+      </div>
+      <div className="footer w-full">
+        <div className="image w-full">
+          <img src={footer} alt="" className="w-full" />
         </div>
       </div>
     </div>
