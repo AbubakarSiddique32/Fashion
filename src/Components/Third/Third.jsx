@@ -16,6 +16,11 @@ const Third = () => {
       <p>Okok</p>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi unde ipsum
       hi im abubakar siddique im from pakistan im a front end developer
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
+        beatae, placeat, sed repudiandae laudantium non nisi nesciunt libero, a
+        aperiam officia delectus incidunt ducimus saepe quam quas atque ut? At.
+      </p>
     </div>
   );
 };
