@@ -2,27 +2,8 @@ import React from "react";
 
 const Third = () => {
   return (
-    <div>
-      <p>
-        third <section></section>
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil animi
-        reprehenderit vel nesciunt corporis error sint alias id est numquam
-        dolor tenetur totam voluptatibus quae, cumque, molestias natus nemo
-        sequi?
-      </p>
-      <p>hacker</p>
-      <p>Okok</p>
-      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi unde ipsum
-      hi im abubakar siddique im from pakistan im a front end developer
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-        beatae, placeat, sed repudiandae laudantium non nisi nesciunt libero, a
-        aperiam officia delectus incidunt ducimus saepe quam quas atque ut? At.
-      </p>
-      ok guys there is a problem so be careful while you are comming towards my
-      home
+    <div className=" bg-blue-200">
+      <p>third hi this is third section</p>
     </div>
   );
 };
