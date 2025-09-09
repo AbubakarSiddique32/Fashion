@@ -30,6 +30,12 @@ const Third = () => {
         Esse molestiae nobis tenetur vel dolorem repudiandae nihil unde
         consectetur.
       </p>
+        <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
+        maiores dolorem delectus harum et unde at quaerat? Eaque, tempore sed!
+        Esse molestiae nobis tenetur vel dolorem repudiandae nihil unde
+        consectetur.
+      </p>
 
        
     
