@@ -7,7 +7,7 @@ const Main = () => {
   return (
     <div className="">
       <div className="body flex pb-5 px-10">
-        <div className="left w-[40%] flex items-center">
+        <div className="left w-[40%] flex items-center pt-[90px]">
           <div className="data flex flex-col ">
             <h1 className=" font-Belanosima text-[60px] font-[500] leading-[60px] text-[#000000]">
               Elevate Your Perfomance
