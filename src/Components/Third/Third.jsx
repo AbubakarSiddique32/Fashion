@@ -10,6 +10,7 @@ const Third = () => {
     </p>
     <p>hello my friend how are you you are fine hehehe</p>
     <p>ok my friend</p>
+    <br></br>
     </div>
   );
 };
