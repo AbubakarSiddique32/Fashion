@@ -8,6 +8,7 @@ const Third = () => {
    <h2>heading 2</h2>
    <h3>heading 3</h3>
    <h4>heading 4</h4>
+   <button>Click Me</button>
     </div>
   );
 };
