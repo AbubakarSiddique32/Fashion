@@ -10,6 +10,9 @@ const Third = () => {
    <div>
     <p>ok</p>
    </div>
+   <div>
+    <h1>ok</h1>
+   </div>
    
    <div>
    <button>Click Me</button>
