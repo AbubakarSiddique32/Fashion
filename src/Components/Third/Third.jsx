@@ -14,7 +14,7 @@ const Third = () => {
     <h1>ok</h1>
     <p>ok i am workin for you</p>
    </div>
-   
+   <div><h1>ok</h1></div>
    <div>
    <button>Click Me</button>
    </div>
