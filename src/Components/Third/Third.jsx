@@ -12,6 +12,7 @@ const Third = () => {
    </div>
    <div>
     <h1>ok</h1>
+    <p>ok i am workin for you</p>
    </div>
    
    <div>
