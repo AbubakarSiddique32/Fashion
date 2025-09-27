@@ -8,6 +8,7 @@ const Third = () => {
     </div>
     <button>click me also</button>
     <p>ok i will click you just wait a moment</p>
+    <h1>Heading 1</h1>
     </div>
   );
 };
