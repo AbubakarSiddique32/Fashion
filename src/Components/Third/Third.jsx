@@ -9,6 +9,8 @@ const Third = () => {
     <button>click me also</button>
     <input>ok</input>
     <ul>ok</ul>
+    <p>hi im here</p>
+    <h1>ok</h1>
     </div>
   );
 };
