@@ -11,7 +11,7 @@ const Third = () => {
       <button>Click here</button>
       <div className=" bg-blue"></div>
     </div>
-    
+    <h1>ok</h1>
     </div>
   );
 };
