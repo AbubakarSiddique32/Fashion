@@ -9,6 +9,7 @@ const Third = () => {
     <button>click me also</button>
     <div>
       <button>Click here</button>
+      <div className=" bg-blue"></div>
     </div>
     
     </div>
