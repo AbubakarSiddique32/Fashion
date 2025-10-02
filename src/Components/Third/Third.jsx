@@ -12,6 +12,9 @@ const Third = () => {
       <div className=" bg-blue"></div>
     </div>
     <h1>ok</h1>
+    <div>
+      <button></button>
+    </div>
     </div>
   );
 };
