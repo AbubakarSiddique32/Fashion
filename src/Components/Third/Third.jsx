@@ -6,6 +6,7 @@ const Third = () => {
      <p>Only paragraph left</p>
      <button>ok</button>
      <p>ok</p>
+     <p>ok i got it</p>
     </div>
   );
 };
