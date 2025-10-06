@@ -6,6 +6,9 @@ const Third = () => {
      <p>Only paragraph left</p>
      <button>ok</button>
     <h1>heading</h1>
+    <div>
+      <button></button>
+    </div>
     </div>
   );
 };
