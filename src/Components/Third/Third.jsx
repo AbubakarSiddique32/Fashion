@@ -7,7 +7,7 @@ const Third = () => {
      <button>ok</button>
     <h1>heading</h1>
     <div>
-      <button></button>
+      <button>click me</button>
     </div>
     </div>
   );
