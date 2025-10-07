@@ -8,6 +8,7 @@ const Third = () => {
     <h1>heading</h1>
     <div>
       <button>click me</button>
+      <button className="bg-black rounded"> Click </button>
     </div>
     </div>
   );
