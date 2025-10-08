@@ -7,7 +7,7 @@ const Third = () => {
      <button>ok</button>
     <h1>heading</h1>
     <div>
-      <button>click me</button>
+      <button className=" p-[10px] text-[20px] w-[full]">click me</button>
       <button className="bg-black rounded"> Click </button>
       <h1 className="text-[16px] p-[5px]">heading one</h1>
     </div>
