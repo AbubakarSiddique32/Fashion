@@ -13,6 +13,7 @@ const Third = () => {
       <ul className="">
         <a className=" bg-red">Instagram</a>
         <p>ok hi</p>
+        <button>click me</button>
       </ul>
     </div>
     </div>
