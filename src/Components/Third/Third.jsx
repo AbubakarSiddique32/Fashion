@@ -12,6 +12,7 @@ const Third = () => {
       <h1 className="text-[16px] p-[5px]">heading one</h1>
       <ul className="">
         <a className=" bg-red">Instagram</a>
+        <p>ok hi</p>
       </ul>
     </div>
     </div>
