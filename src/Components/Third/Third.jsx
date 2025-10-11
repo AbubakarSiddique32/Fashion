@@ -14,6 +14,7 @@ const Third = () => {
         <a className=" bg-red">Instagram</a>
         <p>ok hi</p>
         <button>click me</button>
+        <h1>Heading</h1>
       </ul>
     </div>
     </div>
