@@ -12,6 +12,7 @@ const Third = () => {
       <h1 className="text-[16px] p-[5px]">heading one</h1>
       <ul className="">
         <button>Click Me</button>
+        <p>lorem is a sample text for sites </p>
       </ul>
     </div>
     </div>
