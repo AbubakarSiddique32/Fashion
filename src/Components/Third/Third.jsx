@@ -11,11 +11,7 @@ const Third = () => {
       <button className="bg-black rounded"> Click </button>
       <h1 className="text-[16px] p-[5px]">heading one</h1>
       <ul className="">
-        <a className=" bg-red">Instagram</a>
-        <p>ok hi</p>
-        <button>click me</button>
-        <h1>Heading</h1>
-        <button>click me also</button>
+        <button>Click Me</button>
       </ul>
     </div>
     </div>
