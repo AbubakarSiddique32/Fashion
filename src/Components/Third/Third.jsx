@@ -15,6 +15,8 @@ const Third = () => {
         <p>lorem is a sample text for sites </p>
         <li>Home</li>
         <li>Data</li>
+        <li>Blogs</li>
+        <li>Contact</li>
       </ul>
     </div>
     </div>
