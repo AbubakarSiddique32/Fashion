@@ -13,6 +13,8 @@ const Third = () => {
       <ul className="">
         <button>Click Me</button>
         <p>lorem is a sample text for sites </p>
+        <li>Home</li>
+        <li>Data</li>
       </ul>
     </div>
     </div>
