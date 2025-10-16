@@ -14,11 +14,8 @@ const Third = () => {
         <button>Click Me</button>
         <p>lorem is a sample text for sites </p>
         <li>Home</li>
-        <li>Data</li>
-        <li>Blogs</li>
-        <li>Contact</li>
-        <li>About</li>
-        <li>Log Out</li>
+        <li>Main</li>
+        <li>Shop</li>
       </ul>
     </div>
     </div>
