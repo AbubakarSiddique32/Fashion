@@ -18,6 +18,7 @@ const Third = () => {
         <li>Shop</li>
         <li>Shop All</li>
         <li>Collections</li>
+        <li>All Collections</li>
       </ul>
     </div>
     </div>
