@@ -10,9 +10,8 @@ const Third = () => {
       <button className=" p-[10px] text-[20px] w-[full]">click me</button>
       <button className="bg-black rounded"> Click </button>
       <h1 className="text-[16px] p-[5px]">heading one</h1>
-      <ul className="">
-        <button>Click Me</button>
-        <p>lorem is a sample text for sites </p>
+      <ul className=" flex">
+        
         <li>Home</li>
         <li>Main</li>
         <li>Shop</li>
