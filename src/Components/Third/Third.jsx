@@ -11,13 +11,7 @@ const Third = () => {
       <button className="bg-black rounded"> Click </button>
       <h1 className="text-[16px] p-[5px]">heading one</h1>
       <ul className=" flex items-center gap-3">
-        <li>Home</li>
-        <li>Main</li>
-        <li>Shop</li>
-        <li>Shop All</li>
-        <li>Collections</li>
-        <li>All Collections</li>
-        <li><a></a></li>
+      <li>Website</li>
       </ul>
     </div>
     </div>
