@@ -16,6 +16,8 @@ const Third = () => {
       <li>
         Categories
       </li>
+      <li>Sections</li>
+      
       </ul>
     </div>
     </div>
