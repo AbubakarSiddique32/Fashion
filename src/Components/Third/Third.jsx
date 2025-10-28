@@ -22,6 +22,7 @@ const Third = () => {
       <li>Help</li>
       <li>About Us</li>
       <li>Contact Us</li>
+      <li>Blogs</li>
 
       </ul>
     </div>
