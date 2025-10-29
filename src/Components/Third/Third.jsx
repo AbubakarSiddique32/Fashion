@@ -13,17 +13,8 @@ const Third = () => {
       <ul className=" flex items-center gap-3">
       <li>Shop</li>
       <li>Products</li>
-      <li>
-        Categories
-      </li>
-      <li>Sections</li>
-      <li>Show All</li>
-      <li>Shop</li>
-      <li>Help</li>
-      <li>About Us</li>
-      <li>Contact Us</li>
-      <li>Blogs</li>
-      <li>Story</li>
+       <li>List</li>
+       <li>Category</li>
 
       </ul>
     </div>
