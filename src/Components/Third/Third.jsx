@@ -22,7 +22,7 @@ const Third = () => {
        <li>Shop </li>
        <li>Hi</li>
        <li>Posting</li>
-       <li>Posted</li>
+       <li className=" text-[20px]">Posted</li>
 
       </ul>
     </div>
