@@ -20,6 +20,7 @@ const Third = () => {
       <li>Category</li>
       <li>Dresses</li>
       <li>Filter</li>
+      <li>All</li>
 
       </ul>
     </div>
