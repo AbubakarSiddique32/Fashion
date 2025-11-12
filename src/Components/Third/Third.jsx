@@ -22,6 +22,7 @@ const Third = () => {
       <li>Filter</li>
       <li>All</li>
       <li>OK</li>
+      <li>Align</li>
 
       </ul>
     </div>
