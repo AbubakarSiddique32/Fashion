@@ -21,6 +21,7 @@ const Third = () => {
       <li className=" text-[20px]">Hello</li>
       <li>oh yeah</li>
       <li>ok</li>
+      <li>github</li>
 
       </ul>
     </div>
