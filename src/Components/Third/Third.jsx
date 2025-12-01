@@ -15,6 +15,7 @@ const Third = () => {
      <li>List</li>
      <li>ok</li>
      <li>okkk hi</li>
+     <li>new</li>
 
       </ul>
     </div>
