@@ -15,6 +15,7 @@ const Third = () => {
      <li>list</li>
      <li>list</li>
      <li className="bg-black">ok</li>
+     <li>Fashion</li>
 
     
 
