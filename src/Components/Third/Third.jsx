@@ -18,7 +18,8 @@ const Third = () => {
      <li>Fashion</li>
      <li>listing</li>
      <li>ok</li>
-     <li>hello</li>
+     <li className="bg-black">hello</li>
+     
 
     
 
