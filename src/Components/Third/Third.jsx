@@ -12,13 +12,7 @@ const Third = () => {
       <h1 className="text-[16px] p-[5px]">heading one</h1>
       <ul className=" flex items-center gap-3">
      <li className=" bg-black text-[16px]">Shop</li>
-     <li>list</li>
-     <li>list</li>
-     <li className="bg-black">ok</li>
-     <li>Fashion</li>
-     <li>listing</li>
-     <li>ok</li>
-     <li className="bg-black">hello</li>
+     <li className=" bg-black">List</li>
      
 
     
