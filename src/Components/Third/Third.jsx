@@ -13,6 +13,7 @@ const Third = () => {
       <ul className=" flex items-center gap-3">
      <li className=" bg-black text-[16px]">Shop</li>
      <li className=" bg-black text-[16px]">List</li>
+     <li>Third</li>
      
 
     
