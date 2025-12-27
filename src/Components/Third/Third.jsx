@@ -20,6 +20,7 @@ const Third = () => {
      <li>ok</li>
      <li>ok</li>
      <li>list</li>
+     <li>All</li>
      
 
     
