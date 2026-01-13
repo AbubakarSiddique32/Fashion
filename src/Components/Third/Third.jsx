@@ -24,7 +24,7 @@ const Third = () => {
      <li>ok</li>
      <li className=" bg-green">listing</li>
      <li>list</li>
-     <li>listing</li>
+     <li className=" bg-red">listing</li>
     <li className=" text-[20px]">yeah</li>
      
      
