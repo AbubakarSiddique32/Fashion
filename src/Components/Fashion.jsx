@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Main from "./Main";
 import Second from "./Second/Second";
+import Third from "./Third/Third";
 const Fashion = () => {
   return (
     <>
@@ -11,6 +12,7 @@ const Fashion = () => {
         </div>
         <Main />
         <Second />
+        <Third/>
       </div>
     </>
   );

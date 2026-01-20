@@ -35,7 +35,6 @@ const Second = () => {
           </div>
         </div>
       </div>
-      <div className=" h-[60px] w-full bg-white"></div>
     </div>
   );
 };
