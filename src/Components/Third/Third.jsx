@@ -9,6 +9,7 @@ const Third = () => {
     <h4 className=" bg-black">heading 4</h4>
     <h2 className=" text-[20px]">ok</h2>
     <h1 className=" bg-black">list</h1>
+    <p></p>
  
     </div>
   );
