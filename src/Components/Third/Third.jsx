@@ -10,7 +10,7 @@ const Third = () => {
     <h2 className=" text-[20px]">ok</h2>
     <h1 className=" bg-black">list</h1>
     <p className=" bg-blac text-[20px]">Practice</p>
-    <h4>heading</h4>
+    <h4 className=" bg-white">heading</h4>
  
     </div>
   );
