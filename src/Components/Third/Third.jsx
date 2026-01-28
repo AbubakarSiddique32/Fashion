@@ -11,7 +11,7 @@ const Third = () => {
     <h1 className=" bg-black">list</h1>
     <p className=" bg-blac text-[20px]">Practice</p>
     <h4 className=" bg-white">heading</h4>
-    <p>ok</p>
+    <p className=" bg-black">ok</p>
  
     </div>
   );
