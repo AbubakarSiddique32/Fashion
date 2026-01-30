@@ -6,13 +6,7 @@ const Third = () => {
 
     <h1 className=" bg-black ">Practicing</h1>
     <p className="bg-red">TRhis is my practicing section and im using this section for github activity</p>
-    <h4 className=" bg-black">heading 4</h4>
-    <h2 className=" text-[20px]">ok</h2>
-    <h1 className=" bg-black">list</h1>
-    <p className=" bg-blac text-[20px]">Practice</p>
-    <h4 className=" bg-white">heading</h4>
-    <p className=" bg-black">ok have fun</p>
-    <p className=" bg-white">ok </p>
+    <p>Paragraph</p>
  
     </div>
   );
