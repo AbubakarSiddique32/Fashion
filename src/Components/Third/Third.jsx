@@ -7,7 +7,7 @@ const Third = () => {
     <h1 className=" bg-black ">Practicing</h1>
     <p className="bg-red">TRhis is my practicing section and im using this section for github activity</p>
     <p>Paragraph</p>
-    <h1>heading</h1>
+    <h1 className=" bg-white">heading</h1>
  
     </div>
   );
