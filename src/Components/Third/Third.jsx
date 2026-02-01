@@ -8,7 +8,7 @@ const Third = () => {
     <p className="bg-red">TRhis is my practicing section and im using this section for github activity</p>
     <p>Paragraph</p>
     <h1 className=" bg-white">heading</h1>
-    <p>ok</p>
+    <p className=" bg-white">ok</p>
  
     </div>
   );
