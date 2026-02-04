@@ -13,6 +13,7 @@ const Third = () => {
     <p className=" bg-white border-rounded mb-2">paragraph</p>
     <ul>
       <li></li>
+      <li>list</li>
     </ul>
  
     </div>
