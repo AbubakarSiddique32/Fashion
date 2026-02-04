@@ -11,6 +11,9 @@ const Third = () => {
     <p className=" bg-white">ok</p>
     <h1>list</h1>
     <p className=" bg-white border-rounded mb-2">paragraph</p>
+    <ul>
+      <li></li>
+    </ul>
  
     </div>
   );
