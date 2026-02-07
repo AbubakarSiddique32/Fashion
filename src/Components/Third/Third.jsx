@@ -12,7 +12,7 @@ const Third = () => {
     <h1>list</h1>
     <p className=" bg-white border-rounded mb-2">paragraph</p>
     <ul>
-      <li>list-style</li>
+      <li className=" bg-black">list-style</li>
       <li>listing</li>
     </ul>
  
