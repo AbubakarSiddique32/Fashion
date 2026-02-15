@@ -15,6 +15,7 @@ const Third = () => {
       <li className=" bg-black text-[16px]">list-style</li>
       <li className="bg-white"> here's my snippets</li>
       <li className=" bg-white"></li>
+      <li></li>
      
 
     </ul>
