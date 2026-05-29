@@ -23,7 +23,7 @@ const Third = () => {
       <p>this is it huuhhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
       <a>Faaaaaaaaaaaaaaaaaaaaaaaaaaaa</a>
       <p>very noice</p>
-      <h1>Heading</h1>
+      <h1 className=" heading-3">Heading</h1>
 
     </ul>
  
