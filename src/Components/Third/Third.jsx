@@ -25,6 +25,7 @@ const Third = () => {
       <p>very noice</p>
       <h1 className=" heading-3">Heading</h1>
       <p>paragraph</p>
+      <h3>heeading is 3 ok lets goooo</h3>
 
     </ul>
  
