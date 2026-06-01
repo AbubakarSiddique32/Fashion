@@ -28,6 +28,9 @@ const Third = () => {
       <h3>heeading is 3 ok lets goooo</h3>
       <h2>hey hello</h2>
       <p>paragraph</p>
+      <div>
+        <p>paragraph is the only thing</p>
+      </div>
 
     </ul>
  
