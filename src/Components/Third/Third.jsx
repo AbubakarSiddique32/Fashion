@@ -31,6 +31,7 @@ const Third = () => {
       <div>
         <p>paragraph is the only thing</p>
         <a>Shop Now</a>
+        <p>hey let me know if you need my services</p>
       </div>
 
     </ul>
