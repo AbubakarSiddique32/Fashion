@@ -32,6 +32,7 @@ const Third = () => {
         <p>paragraph is the only thing</p>
         <a>Shop Now</a>
         <p>hey let me know if you need my services</p>
+        <h1>Heading tag is used for only tags that can kept headings</h1>
       </div>
 
     </ul>
