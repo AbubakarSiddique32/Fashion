@@ -36,6 +36,7 @@ const Third = () => {
         <h1> this is heading 2</h1>
         <p>Hey Buddy</p>
         <p>paragraph is the only thing that is not good </p>
+        <h1>heading</h1>
       </div>
 
     </ul>
