@@ -35,6 +35,7 @@ const Third = () => {
         <h1>Heading tag is used for only tags that can kept headings</h1>
         <h1> this is heading 2</h1>
         <p>Hey Buddy</p>
+        <p>paragraph is the only thing that is not good </p>
       </div>
 
     </ul>
