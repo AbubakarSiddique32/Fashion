@@ -38,6 +38,7 @@ const Third = () => {
         <p>paragraph is the only thing that is not good </p>
         <h1>heading</h1>
         <p>paragraph for the addiction of the ahooo</p>
+        <h2>heading 2 i sthe for the screening</h2>
       </div>
 
     </ul>
