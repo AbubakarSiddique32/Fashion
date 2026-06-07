@@ -42,7 +42,9 @@ const Third = () => {
         <p>paragraph where we can write the entire things</p>
         <h1>heading is the only key</h1>
         <div>
-          <ul></ul>
+          <ul>
+            <li>hey</li>
+          </ul>
         </div>
       </div>
 
