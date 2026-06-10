@@ -50,6 +50,8 @@ const Third = () => {
             <li>Collections</li>
             <li>Categories</li>
             <li>Designs</li>
+            <li>Lists</li>
+            <li><a href=""></a></li>
           </ul>
         </div>
       </div>
