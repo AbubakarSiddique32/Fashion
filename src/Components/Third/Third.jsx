@@ -52,7 +52,7 @@ const Third = () => {
             <li>Designs</li>
             <li>Lists</li>
             <li>Listing</li>
-            <li>Ok<li/>
+            <li>list</li>
             <li><a href=""></a></li>
           </ul>
         </div>
