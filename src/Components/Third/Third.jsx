@@ -43,18 +43,8 @@ const Third = () => {
         <h1>heading is the only key</h1>
         <div>
           <ul>
-            <li>hey</li>
-            <li>hello world</li>
-            <li>lets have a fun</li>
-            <li>Shop</li>
-            <li>Collections</li>
-            <li>Categories</li>
-            <li>Designs</li>
-            <li>Lists</li>
-            <li>Listing</li>
-            <li>list</li>
-            <li><a href=""></a></li>
-            <li>ok </li>
+          <li>Shop</li>
+          <li>New Arrivals</li>
           </ul>
         </div>
       </div>
