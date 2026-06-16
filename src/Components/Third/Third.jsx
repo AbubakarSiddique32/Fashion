@@ -50,6 +50,7 @@ const Third = () => {
           <li>Contact Us</li>
           <li>Our Story</li>
           <li>Listing</li>
+          <li>Logs</li>
           </ul>
         </div>
       </div>
