@@ -55,7 +55,9 @@ const Third = () => {
           </ul>
 
         </div>
-        <div><h1>Heading One</h1></div>
+        <div><h1>Heading One</h1>
+        <h2>Heading 2</h2>
+        </div>
       </div>
 
     </ul>
