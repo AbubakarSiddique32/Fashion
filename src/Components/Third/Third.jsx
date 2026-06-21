@@ -64,6 +64,9 @@ const Third = () => {
         <p>hey how are you</p>
         <h1>oh right here we go again</h1>
        <h1>Headinggggg</h1> 
+       <div>
+        <h2>Heading 2</h2>
+       </div>
         </div>
       </div>
 
