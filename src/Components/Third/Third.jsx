@@ -70,6 +70,7 @@ const Third = () => {
         <h2>Lets have a drink</h2>
         <ul>
           <li>List</li>
+          <li>Our Story</li>
         </ul>
        </div>
         </div>
