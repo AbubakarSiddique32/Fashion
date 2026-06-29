@@ -80,6 +80,7 @@ const Third = () => {
           <li>Collection</li>
           <li>About</li>
           <li>Story</li>
+          <li>Contact</li>
         </ul>
        </div>
         </div>
