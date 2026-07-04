@@ -91,6 +91,7 @@ const Third = () => {
           <li>location</li>
           <li>Shopping</li>
           <li>list</li>
+          <li>Shopify</li>
         </ul>
        </div>
         </div>
