@@ -100,6 +100,7 @@ const Third = () => {
           <li> Collection</li>
         </ul>
         <div>
+        <p>paragraph is the</p>
           <p>Paragraph</p>
           <h1>Heading 1</h1>
         </div>
