@@ -105,13 +105,8 @@ const Third = () => {
           <h1>Heading 1</h1>
           <li>Listing</li>
           <li>school</li>
-          <li>scrolling</li>
-          <li>listing</li>
-          <li>Hearing</li>
-          <li>ok</li>
-          <li>listing</li>
-          <li>reading</li>
-          <li>okkkkk</li>
+          <li>Lifting</li>
+          
         </div>
        </div>
         </div>
