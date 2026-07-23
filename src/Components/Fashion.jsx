@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import Main from "./Main";
 import Second from "./Second/Second";
 import Third from "./Third/Third";
+import Fourth from "./Fourth/Fourth";
 const Fashion = () => {
   return (
     <>
@@ -13,6 +14,7 @@ const Fashion = () => {
         <Main />
         <Second />
         <Third/>
+        <Fourth/>
       </div>
     </>
   );
