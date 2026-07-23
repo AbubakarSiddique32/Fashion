@@ -2,7 +2,7 @@ import React from 'react'
 
 const Fourth = () => {
   return (
-    <div>Fourth</div>
+    <div><p>Fourth</p></div>
   )
 }
 
