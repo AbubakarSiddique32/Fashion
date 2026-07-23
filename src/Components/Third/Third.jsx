@@ -126,6 +126,7 @@ const Third = () => {
           <li>Lets Gooooo</li>
           <li>Hughhh</li>
           <li>Lets goooooo</li>
+          <li>Heavy</li>
           </ul>
           
         </div>
