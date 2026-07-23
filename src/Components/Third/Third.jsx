@@ -112,21 +112,7 @@ const Third = () => {
           <p>Paragraph</p>
           <p>Listing</p>
           <ul> 
-          <li> list</li>
-          <li>Not Fair</li>
-          <li>Listen</li>
-          <li>Hey</li>
-          <li>ok</li>
-          <li>ok g ok</li>
-          <li>ASAP</li>
-          <li> Oh Shit</li>
-          <li>Here we go again</li>
-          <li>Listing</li>
-          <li>ok lets ok</li>
-          <li>Lets Gooooo</li>
-          <li>Hughhh</li>
-          <li>Lets goooooo</li>
-          <li>Heavy</li>
+         <li>Home</li>
           </ul>
           
         </div>
