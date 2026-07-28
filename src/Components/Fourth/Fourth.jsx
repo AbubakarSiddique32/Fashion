@@ -19,6 +19,7 @@ const Fourth = () => {
     <li>New Arrivals</li>
     <li>Stock</li>
     <li>Old Stock</li>
+    <li>ok</li>
     
     </ul>
     </div>
