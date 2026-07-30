@@ -25,6 +25,7 @@ const Fourth = () => {
     <li>Contact</li>
     
     </ul>
+    <p>Lorem35</p>
     </div>
   )
 }
