@@ -27,6 +27,7 @@ const Fourth = () => {
     </ul>
     <p>Lorem35</p>
     <p>Let's go</p>
+    <p>lorem are not taking</p>
     </div>
   )
 }
