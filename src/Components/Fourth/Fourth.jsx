@@ -32,6 +32,7 @@ const Fourth = () => {
     <ul>
       <li>Shop</li>
       <li>Home</li>
+      <li>About</li>
     </ul>
     </div>
   )
