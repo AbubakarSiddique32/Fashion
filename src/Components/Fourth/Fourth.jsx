@@ -43,7 +43,9 @@ const Fourth = () => {
       <li>Collections</li>
 
     </ul>
-    <div></div>
+    <div>
+      <h1>Heading 1</h1>
+    </div>
     </div>
   )
 }
