@@ -46,6 +46,7 @@ const Fourth = () => {
     <div>
       <h1>Heading 1</h1>
       <p>Paragraph</p>
+      <p>Paragraph is the only thing</p>
     </div>
     </div>
   )
