@@ -52,7 +52,8 @@ const Fourth = () => {
       <p>Let's Gooooooooooooooooooooooo</p>
       <p>Paragraph</p>
       <div>
-        <h1>Heading One is the Heading</h1>H
+        <h1>Heading One is the Heading</h1>
+        <p>Paragraph is for the body text</p>
       </div>
     </div>
     </div>
