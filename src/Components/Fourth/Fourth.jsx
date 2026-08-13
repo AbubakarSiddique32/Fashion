@@ -56,6 +56,7 @@ const Fourth = () => {
         <p>Paragraph is for the body text</p>
         <h2>Hey its heading 2</h2>
         <p>Pro tips are here</p>
+        <p> Paragraph is in the p tag</p>
       </div>
     </div>
     </div>
