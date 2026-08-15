@@ -60,6 +60,7 @@ const Fourth = () => {
         <h5>Heading 5 is there </h5>
         <p>letssss gooooo</p>
         <h3>heading 3</h3>
+        <h5>Heading 6</h5>
       </div>
     </div>
     </div>
