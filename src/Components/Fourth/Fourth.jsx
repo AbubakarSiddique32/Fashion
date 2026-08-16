@@ -63,6 +63,7 @@ const Fourth = () => {
         <h5>Heading 6</h5>
         <p>Paragraph </p>
         <p>hey its ok</p>
+        <h6>ok</h6>
       </div>
     </div>
     </div>
