@@ -64,6 +64,7 @@ const Fourth = () => {
         <p>Paragraph </p>
         <p>hey its ok</p>
         <h6>ok</h6>
+        <p>Paragraph is only for the ahooo</p>
       </div>
     </div>
     </div>
