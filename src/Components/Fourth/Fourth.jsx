@@ -70,6 +70,7 @@ const Fourth = () => {
           <li>Home</li>
           <li>Shop</li>
           <li>Collection</li>
+          <li>New Arrivals</li>
         </ul>
       </div>
     </div>
