@@ -75,6 +75,7 @@ const Fourth = () => {
           <li>About Us</li>
           <li>Our Story</li>
           <li>Classes</li>
+          <li>Sections</li>
           
         </ul>
       </div>
