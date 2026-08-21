@@ -77,6 +77,7 @@ const Fourth = () => {
           <li>Classes</li>
           <li>Sections</li>
           <li>Listing</li>
+          <li>View</li>
           
         </ul>
       </div>
