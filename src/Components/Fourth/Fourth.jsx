@@ -74,17 +74,7 @@ const Fourth = () => {
           <li>Contact</li>
           <li>About Us</li>
           <li>Our Story</li>
-          <li>Classes</li>
-          <li>Sections</li>
-          <li>Listing</li>
-          <li>View</li>
-          <li>Our Story</li>
-          <li>Sustainability</li>
-          <li>Best Selling</li>
-          <li>Linked</li>
-          <li>Linkedin</li>
-          <li>Listing</li>
-          <li>Hey ok</li>
+          <li>Log In</li>
           
         </ul>
       </div>
