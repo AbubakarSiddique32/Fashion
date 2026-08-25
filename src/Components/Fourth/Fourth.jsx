@@ -78,6 +78,7 @@ const Fourth = () => {
           
         </ul>
         <p>Paragraph is here</p>
+        <p>Para is for body text</p>
       </div>
     </div>
     </div>
