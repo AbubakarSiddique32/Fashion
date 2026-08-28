@@ -84,6 +84,7 @@ const Fourth = () => {
         <h3>Hey how are you</h3>
         <a href=''> Click Me</a>
         <a href=''>Explore More</a>
+        <h1>Heading 1</h1>
       </div>
     </div>
     </div>
