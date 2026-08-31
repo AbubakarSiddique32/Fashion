@@ -97,6 +97,7 @@ const Fourth = () => {
         <h3>Heading three</h3>
         <p>Let's get started</p>
         <button>Button</button>
+        <a>Buy Now</a>
       </div>
     </div>
     </div>
