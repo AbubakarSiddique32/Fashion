@@ -98,6 +98,7 @@ const Fourth = () => {
         <p>Let's get started</p>
         <button>Button</button>
         <a>Buy Now</a>
+        <p>Floki i the boat builder </p>
       </div>
     </div>
     </div>
