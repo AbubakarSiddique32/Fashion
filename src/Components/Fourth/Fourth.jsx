@@ -100,6 +100,7 @@ const Fourth = () => {
         <a>Buy Now</a>
         <p>Floki i the boat builder </p>
         <h4>Let's seee</h4>
+        <p>para tag is very useful to write body text</p>
       </div>
     </div>
     </div>
