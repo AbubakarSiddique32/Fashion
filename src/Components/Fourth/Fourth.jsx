@@ -103,6 +103,7 @@ const Fourth = () => {
         <p>para tag is very useful to write body text</p>
         <h5>Heading 5</h5>
         <h4>Heading 4</h4>
+        <p>p tag is only</p>
       </div>
     </div>
     </div>
