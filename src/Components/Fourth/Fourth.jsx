@@ -106,6 +106,7 @@ const Fourth = () => {
         <p>p tag is only</p>
         <h5>Heading Five Tag</h5>
         <p>ParaDox</p>
+        <p>paragraph is the written in P tag</p>
       </div>
     </div>
     </div>
