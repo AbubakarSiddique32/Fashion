@@ -112,7 +112,8 @@ const Fourth = () => {
         <h5>Heading 5 is there</h5>
         <p>paragraph is thwere</p>
         <h5>Heading 5</h5>
-        <h6></h6>
+        <h6>Heading six is the also heading tag</h6>
+        <h5>H5 tag is also used for heeading</h5>
       </div>
     </div>
     </div>
