@@ -115,6 +115,8 @@ const Fourth = () => {
         <h6>Heading six is the also heading tag</h6>
         <h5>H5 tag is also used for heeading</h5>
         <p>Lorem35</p>
+        <h5>Heading 5 </h5>
+        <h4>Heading 4</h4>
       </div>
     </div>
     </div>
