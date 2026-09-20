@@ -149,6 +149,7 @@ const Fourth = () => {
         <h6>Heading Six</h6>
         <p>para</p>
         <h5>Heading Five</h5>
+        <p>P tag is use for body text in html and also we can style this tag through css to make it looks better</p>
       </div>
     </div>
     </div>
