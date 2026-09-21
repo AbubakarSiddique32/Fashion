@@ -152,6 +152,7 @@ const Fourth = () => {
         <p>P tag is use for body text in html and also we can style this tag through css to make it looks better</p>
         <h4>Heaing Four tag is use for heading</h4>
         <p>Hey </p>
+        <h3>Heading 3</h3>
       </div>
     </div>
     </div>
