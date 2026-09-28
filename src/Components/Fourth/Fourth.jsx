@@ -176,6 +176,7 @@ const Fourth = () => {
          <li>Shop</li>
         </ul>
         <a href=''>CLICK ME</a>
+        <a>Shop Now</a>
       </div>
     </div>
     </div>
