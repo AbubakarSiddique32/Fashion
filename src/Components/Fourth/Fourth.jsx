@@ -179,6 +179,7 @@ const Fourth = () => {
         <a>Shop Now</a>
         <h2>Heading 2</h2>
         <p>Hey how are you</p>
+        <p>Paragraph</p>
       </div>
     </div>
     </div>
