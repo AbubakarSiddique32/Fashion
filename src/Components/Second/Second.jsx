@@ -35,6 +35,7 @@ const Second = () => {
           </div>
         </div>
       </div>
+      <p>That's wrong man</p>
     </div>
   );
 };
