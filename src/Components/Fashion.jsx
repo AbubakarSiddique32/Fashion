@@ -4,6 +4,7 @@ import Main from "./Main";
 import Second from "./Second/Second";
 import Third from "./Third/Third";
 import Fourth from "./Fourth/Fourth";
+import Fifth from "./Fifth/Fifth";
 const Fashion = () => {
   return (
     <>
@@ -15,6 +16,7 @@ const Fashion = () => {
         <Second />
         <Third/>
         <Fourth/>
+        <Fifth/>
       </div>
     </>
   );
