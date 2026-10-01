@@ -38,6 +38,7 @@ const Second = () => {
       <h3>hhhhhhhhhhhhhhhhhhhhhhhhh</h3>
       <p>That's wrong man</p>
       <h3>Heading three</h3>
+      <a>Click me</a>
     </div>
   );
 };
