@@ -43,6 +43,7 @@ const Second = () => {
       <p>pppppppppppppppppppppppppppppppppppppppppppppppppppp</p>
       <a>Click Me</a>
       <p>Hi my name is ------- i completed my bachelor in software engneering from ------ . I have 1 and half year of experience in business development where i can work on lead generation, client research, market search, proposal writting, upwork bidding and also i have experience of linkedin sale navigator, cold email and Crm managenment also im fimilar with klaviyo or omnisend for eamil marketing .</p>
+      <a href="#">Read More</a>
     </div>
   );
 };
