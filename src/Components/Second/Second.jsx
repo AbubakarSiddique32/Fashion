@@ -50,6 +50,7 @@ const Second = () => {
       <h6>hey heyyyyy</h6>
       <p>paragraph is theeeee</p>
       <h3>Heading is going on</h3>
+      <p>okkkkk</p>
     </div>
   );
 };
