@@ -61,6 +61,7 @@ const Second = () => {
       <p>paragraphhhhhh</p>
       <h2>Heading 2 is going to next level</h2>
       <p>pppppppppppppppppppppppppppppppppppppppppppp</p>
+      <h2>heading 2</h2>
     </div>
   );
 };
