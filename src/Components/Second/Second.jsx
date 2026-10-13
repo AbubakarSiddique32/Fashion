@@ -70,6 +70,7 @@ const Second = () => {
         <li>Home</li>
         <li>Shop</li>
         <li>Collections</li>
+        <li>New Arrivals</li>
       </ul>
     </div>
   );
