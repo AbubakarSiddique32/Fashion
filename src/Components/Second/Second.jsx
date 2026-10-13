@@ -68,6 +68,7 @@ const Second = () => {
       <p>ooooooooooooooollllllllllllll</p>
       <ul>
         <li>Home</li>
+        <li>Shop</li>
       </ul>
     </div>
   );
