@@ -72,6 +72,7 @@ const Second = () => {
         <li>Collections</li>
         <li className="arrivals">New Arrivals</li>
         <li className="about">About</li>
+        <li className="contact">Contact</li>
       </ul>
     </div>
   );
