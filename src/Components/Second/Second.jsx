@@ -78,6 +78,7 @@ const Second = () => {
         <li>Privacy Policy</li>
         <li>Return</li>
         <li>LogIn</li>
+        <li>Sign Up</li>
       </ul>
     </div>
   );
