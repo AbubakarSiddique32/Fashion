@@ -79,6 +79,7 @@ const Second = () => {
         <li>Return</li>
         <li>LogIn</li>
         <li>Sign Up</li>
+        <li>Enter</li>
       </ul>
     </div>
   );
