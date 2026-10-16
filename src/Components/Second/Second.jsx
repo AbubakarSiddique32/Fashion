@@ -80,6 +80,7 @@ const Second = () => {
         <li>LogIn</li>
         <li>Sign Up</li>
         <li className=" enter">Enter</li>
+        <a href="#">Click me</a>
       </ul>
     </div>
   );
