@@ -79,7 +79,7 @@ const Second = () => {
         <li>Return</li>
         <li>LogIn</li>
         <li>Sign Up</li>
-        <li>Enter</li>
+        <li className=" enter">Enter</li>
       </ul>
     </div>
   );
