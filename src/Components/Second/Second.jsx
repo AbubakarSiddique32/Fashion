@@ -99,7 +99,7 @@ const Second = () => {
       <p>paraaaaaaaaaaaaaaaaaaaaaaaaaa</p>
       <p className="paragraph"></p>
       <a href=""> Shop Now </a>
-      <a>Click Me</a>
+      <a href=""> Click Me </a>
     </div>
   );
 };
