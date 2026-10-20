@@ -94,6 +94,7 @@ const Second = () => {
         <li>List</li>
         <li>Shopping</li>
         <li>Carting</li>
+        <li>Upgrading</li>
       </ul>
     </div>
   );
