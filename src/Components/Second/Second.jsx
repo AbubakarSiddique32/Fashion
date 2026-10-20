@@ -97,6 +97,7 @@ const Second = () => {
         <li>Upgrading</li>
       </ul>
       <p>paraaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+      <p className="paragraph"></p>
     </div>
   );
 };
