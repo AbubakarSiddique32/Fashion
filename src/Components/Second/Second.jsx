@@ -101,6 +101,7 @@ const Second = () => {
       <a href=""> Shop Now </a>
       <a href=""> Click Me </a>
       <p> All teams are on risk line</p>
+      <h3>You have to play weell to qualify for finals</h3> 
     </div>
   );
 };
