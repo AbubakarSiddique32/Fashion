@@ -103,6 +103,7 @@ const Second = () => {
       <p> All teams are on risk line</p>
       <h3>You have to play weell to qualify for finals</h3> 
       <p>watching movies</p>
+      <h3>Heading 3 is going on</h3>
     </div>
   );
 };
