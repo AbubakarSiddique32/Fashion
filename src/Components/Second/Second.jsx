@@ -104,7 +104,7 @@ const Second = () => {
       <h3>You have to play weell to qualify for finals</h3> 
       <p>watching movies</p>
       <h3>Heading 3 is going on</h3>
-      <p>Ok</p>
+      <p className="ok">Ok</p>
     </div>
   );
 };
