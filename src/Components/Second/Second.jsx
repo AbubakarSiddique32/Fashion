@@ -116,6 +116,7 @@ const Second = () => {
       <h6>Heading SIxxxx</h6>
       <a href="#">Follow for more</a>
       <p>paraaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+      <a href="subscribe">Subscribe</a>
     </div>
   );
 };
