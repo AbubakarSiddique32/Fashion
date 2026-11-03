@@ -133,6 +133,7 @@ const Second = () => {
       <a href=" Anchor">Click Me</a>
       <h5 className="Heading">Heading Five</h5>
       <a>Buy Now</a>
+      <p>Paragraph</p>
     </div>
   );
 };
