@@ -129,6 +129,7 @@ const Second = () => {
       <h5>Nopeeee</h5>
       <p>paragraphhhhhh</p>
       <p>paragraphhh is going on</p>
+      <p>lupin is amzaing series </p>
     </div>
   );
 };
