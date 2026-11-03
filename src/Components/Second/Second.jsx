@@ -130,7 +130,7 @@ const Second = () => {
       <p>paragraphhhhhh</p>
       <p>paragraphhh is going on</p>
       <p>lupin is amzaing series </p>
-      <a>Click Me</a>
+      <a href=" Anchor">Click Me</a>
     </div>
   );
 };
