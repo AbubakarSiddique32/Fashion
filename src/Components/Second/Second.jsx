@@ -132,6 +132,7 @@ const Second = () => {
       <p>lupin is amzaing series </p>
       <a href=" Anchor">Click Me</a>
       <h5 className="Heading">Heading Five</h5>
+      <a>Buy Now</a>
     </div>
   );
 };
