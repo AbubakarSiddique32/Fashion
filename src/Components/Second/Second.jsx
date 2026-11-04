@@ -134,6 +134,7 @@ const Second = () => {
       <h5 className="Heading">Heading Five</h5>
       <a>Buy Now</a>
       <p>Paragraph</p>
+      <p>Paragraph Is going to be good</p>
     </div>
   );
 };
