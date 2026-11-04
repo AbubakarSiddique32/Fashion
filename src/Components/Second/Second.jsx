@@ -138,6 +138,7 @@ const Second = () => {
       <a href="#">Collect Now</a>
       <h5 id="Heading">Heading Five</h5> 
       <p>Paragraph is going to be High</p>
+      <h3>Heading</h3>
     </div>
   );
 };
