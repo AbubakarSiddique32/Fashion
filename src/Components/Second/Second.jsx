@@ -151,6 +151,8 @@ const Second = () => {
           <li>
             Collection
           </li>
+          <li>New Arrivals</li>
+          <li>Stock</li>
         </ul>
       </div>
     </div>
