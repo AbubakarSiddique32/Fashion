@@ -142,7 +142,15 @@ const Second = () => {
       <h5 className="gonna ">Heading five is gonna be fine</h5>
       <div>
         <ul>
-          <li></li>
+          <li>
+            Home
+          </li>
+          <li>
+            Shop
+          </li>
+          <li>
+            Collection
+          </li>
         </ul>
       </div>
     </div>
