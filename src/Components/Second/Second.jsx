@@ -159,7 +159,7 @@ const Second = () => {
           <li>About</li>
           <li>Contact</li>
           <li>Our Story</li>
-          <li>Privacy</li>
+          <li className="privacy">Privacy</li>
         </ul>
       </div>
     </div>
