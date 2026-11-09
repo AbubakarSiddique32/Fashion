@@ -160,6 +160,7 @@ const Second = () => {
           <li>Contact</li>
           <li>Our Story</li>
           <li className="privacy">Privacy</li>
+          <li>Information</li>
         </ul>
       </div>
     </div>
