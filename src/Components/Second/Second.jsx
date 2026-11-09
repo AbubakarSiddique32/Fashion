@@ -162,6 +162,7 @@ const Second = () => {
           <li className="privacy">Privacy</li>
           <li>Information</li>
           <li>Policy</li>
+          <a>Click Me</a>
         </ul>
       </div>
     </div>
