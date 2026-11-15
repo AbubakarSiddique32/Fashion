@@ -175,6 +175,9 @@ const Second = () => {
         <p>para</p>
         <h5>Hey what's Upp</h5>
         <p>Hey Im Snapchat</p>
+        <p> paraaaaa</p>
+        <p>paraaaaaa</p>
+        
       </div>
     </div>
   );
