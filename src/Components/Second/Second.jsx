@@ -187,6 +187,7 @@ const Second = () => {
         <p>All is Well the paragraph</p>
         <a href="#">Anchor Tag</a>
         <h5>Headinggggggggggg</h5>
+        <h6>Headingggggggggggggggggg</h6>
         
       </div>
     </div>
