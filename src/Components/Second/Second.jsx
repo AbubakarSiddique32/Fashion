@@ -190,6 +190,9 @@ const Second = () => {
         <h6>Headingggggggggggggggggg</h6>
         <h5>Heading 5</h5>
         <p>paragraphhhhh</p>
+        <h6>
+          headinggggggggg
+        </h6>
         
       </div>
     </div>
