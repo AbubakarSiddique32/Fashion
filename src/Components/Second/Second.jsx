@@ -193,7 +193,7 @@ const Second = () => {
         <h6>
           headinggggggggg
         </h6>
-        
+        <h5>Hey How are You my friend</h5>
       </div>
     </div>
   );
