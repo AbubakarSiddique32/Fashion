@@ -196,6 +196,7 @@ const Second = () => {
         <h5>Hey How are You my friend</h5>
         <a>Click Me</a>
         <a>Click For Shop</a>
+        <p>Paragraaph</p>
       </div>
     </div>
   );
